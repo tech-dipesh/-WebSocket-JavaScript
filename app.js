@@ -24,4 +24,4 @@
     return res.sendFile("/public/index.html");
   })
 
-  server.listen(9000, ()=>console.log("Path is working now"))
+  server.listen(9000, ()=>console.log("Path is working now in", port))
