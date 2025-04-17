@@ -73,3 +73,8 @@ button{
   font-size: larger;
   margin-left: 15px;
 }
+
+span{
+  padding: 5px 15px;
+  background-color: orange;
+}
